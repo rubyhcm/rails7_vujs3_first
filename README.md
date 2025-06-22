@@ -1,6 +1,6 @@
 # Vue 3 and Rails Todo List Manager
 
-#### Tags: done
+#### Tags: Done
 
 ## About The Project
 
