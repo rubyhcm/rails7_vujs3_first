@@ -1,5 +1,7 @@
 # Vue 3 and Rails Todo List Manager
 
+#### Tags: done
+
 ## About The Project
 
 A more detailed description of your project. What problem does it solve? What technologies does it use? You can mention that this is a Ruby on Rails backend with a Vue.js frontend.
