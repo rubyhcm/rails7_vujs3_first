@@ -50,10 +50,10 @@ This project serves as a practical example of how to integrate a modern JavaScri
 
 This project was built with the following technologies:
 
-*   [![Ruby][Ruby-shield]][Ruby-url]
-*   [![Rails][Rails-shield]][Rails-url]
-*   [![Vue.js][Vue.js-shield]][Vue.js-url]
-*   [![Node.js][Node.js-shield]][Node.js-url]
+- [![Ruby][Ruby-shield]][Ruby-url]
+- [![Rails][Rails-shield]][Rails-url]
+- [![Vue.js][Vue.js-shield]][Vue.js-url]
+- [![Node.js][Node.js-shield]][Node.js-url]
 
 ## 🚀 Getting Started
 
@@ -62,20 +62,23 @@ This section will guide a new developer to get a copy of the project up and runn
 ### Prerequisites
 
 Make sure you have the following software installed on your machine:
-*   Ruby (check `.ruby-version` for the specific version)
-*   Bundler (`gem install bundler`)
-*   Node.js & npm
+
+- Ruby (check `.ruby-version` for the specific version)
+- Bundler (`gem install bundler`)
+- Node.js & npm
 
 ### 🔧 Installation
 
 1.  **Clone the repository**
 
 2.  **Install Backend Dependencies**
+
     ```sh
     bundle install
     ```
 
 3.  **Setup the Database**
+
     ```sh
     rails db:create
     rails db:migrate
@@ -95,9 +98,11 @@ To run the application, you will need to start both the Rails server and the Vue
 
 1.  **Start the Rails API server**
     (From the project root directory)
+
     ```sh
     rails s -p 3001
     ```
+
     The API will be running on `http://localhost:3001`.
 
 2.  **Start the Vue.js development server**
@@ -109,16 +114,16 @@ To run the application, you will need to start both the Rails server and the Vue
 
 ## ✅ Running Tests
 
-*   **Backend (RSpec/Minitest):**
-    ```sh
-    # From the project root
-    bundle exec rspec
-    ```
-*   **Frontend (Jest/Cypress):**
-    ```sh
-    # From the /frontend directory
-    npm run test
-    ```
+- **Backend (RSpec/Minitest):**
+  ```sh
+  # From the project root
+  bundle exec rspec
+  ```
+- **Frontend (Jest/Cypress):**
+  ```sh
+  # From the /frontend directory
+  npm run test
+  ```
 
 ## 🤝 Contributing
 
@@ -139,10 +144,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information. (You 
 
 ## ✍️ Author
 
-**James** - *Fullstack Developer* - GitHub Profile
+**James** - _Software Engineer_
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [Ruby-shield]: https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white
 [Ruby-url]: https://www.ruby-lang.org/
 [Rails-shield]: https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white
